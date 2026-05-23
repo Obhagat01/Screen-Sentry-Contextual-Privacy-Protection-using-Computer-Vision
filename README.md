@@ -24,9 +24,9 @@ The system continuously monitors the surroundings through the laptop webcam and 
 
 The application detects:
 
--  Multiple unauthorized viewers near the screen
--  Smartphone cameras attempting to record the display
--  Shoulder surfing threats in public environments
+-  Multiple unauthorized viewers near the screen.
+-  Smartphone cameras attempting to record the display.
+-  Shoulder surfing threats in public environments.
 
 Whenever a threat is detected, Screen Sentry instantly activates a fullscreen blur overlay to hide sensitive information from unauthorized viewers.
 
